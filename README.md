@@ -2,9 +2,9 @@ _HELLO THERE_ ,
 
 **ABOUT ME** : 
 - 👋 Hi, I’m Dharun R
-- 👀 I’m interested in web development and machine learning.
-- 🌱 I’m currently learning machine learning.
-- 💞️ I’m looking for an internship.
+- 👀 Interested in web development and machine learning.
+- 🌱 Currently learning machine learning.
+- 💞️ Looking for a job.
 - 📫 Contact me on rdharun01@gmail.com.
 
 <!---
@@ -13,9 +13,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 **TECHNICAL SKILLS**🥇🥇 :
-  - C
   - Java
-  - Python on machine learning
+  - Python
 
 **WEB DEVELOPMENT SKILLS** 🌍 :
    - HTML
