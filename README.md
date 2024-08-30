@@ -2,9 +2,7 @@ _HELLO THERE_ ,
 
 **ABOUT ME** : 
 - 👋 Hi, I’m Dharun R
-- 👀 Interested in web development and machine learning.
-- 🌱 Currently learning machine learning.
-- 💞️ Looking for a job.
+- 👀 Python and machine learning enthusiast.
 - 📫 Contact me on rdharun01@gmail.com.
 
 <!---
@@ -15,9 +13,14 @@ You can click the Preview link to take a look at your changes.
 **TECHNICAL SKILLS**🥇🥇 :
   - Java
   - Python
+  - Flask
+  - Machine Learning
+  - SQL
+  - Mongo DB
 
 **WEB DEVELOPMENT SKILLS** 🌍 :
    - HTML
    - CSS
    - BOOTSTRAP
+   - JS
     
