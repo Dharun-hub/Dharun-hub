@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi, I’m Dharun R<br>👀 Python and machine learning enthusiast<br>📫 Contact me on rdharun01@gmail.com
 
+## 🌐 Portfolio:
+👀 Check out my portfolio: https://dharun-portfolio.carrd.co/#
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dharun R) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Dharun R) 
